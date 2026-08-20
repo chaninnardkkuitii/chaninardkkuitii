@@ -11,19 +11,19 @@
 
 ###  ทักษะและความเชี่ยวชาญ (Skills & Technologies)
 
-#### 💻 Languages
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Python](https://shields.io)
+#### Languages
+![HTML5]
+![CSS3]
+![JavaScript]
+![Python]
 
-#### 🚀 Frameworks & Tools
-![React](https://shields.io)
-![NodeJS](https://shields.io)
-![Git](https://shields.io)
+####  Frameworks & Tools
+![React]
+![NodeJS]
+![Git]
 
 —
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
