@@ -12,18 +12,18 @@
 ###  ทักษะและความเชี่ยวชาญ (Skills & Technologies)
 
 #### Languages
-![HTML5]
-![CSS3]
-![JavaScript]
-![Python]
+[HTML5]
+[CSS3]
+[JavaScript]
+[Python]
 
 ####  Frameworks & Tools
-![React]
-![NodeJS]
-![Git]
+[React]
+[NodeJS]
+[Git]
 
 —
 
 ### GitHub Stats
-![GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+[GitHub Stats]
+[Top Langs]
