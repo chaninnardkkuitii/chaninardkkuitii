@@ -1,15 +1,15 @@
 
-# 👋 สวัสดีครับ/ค่ะ ผม/ดิฉันชื่อ [chaninardkkuitii]
+# [chaninardkkuitii]
 
-### 🚀 เกี่ยวกับฉัน (About Me)
-- 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ: `[chaninard piladang]`
-- 🌱 กำลังศึกษาและพัฒนาฝีมือในด้าน: `[AI, Flutter, Docker]`
-- 💬 ทักทายหรือปรึกษาฉันได้ในเรื่อง: `[Web Development, UI Design]`
-- ✉️ ติดต่อฉันได้ที่: `[chaninard.p@kkumail.com]`
+###  เกี่ยวกับฉัน (About Me)
+- ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ: `[chaninard piladang]`
+- กำลังศึกษาและพัฒนาฝีมือในด้าน: `[AI, Flutter, Docker]`
+- ทักทายหรือปรึกษาฉันได้ในเรื่อง: `[Web Development, UI Design]`
+- ติดต่อฉันได้ที่: `[chaninard.p@kkumail.com]`
 
 --
 
-### 🛠️ ทักษะและความเชี่ยวชาญ (Skills & Technologies)
+###  ทักษะและความเชี่ยวชาญ (Skills & Technologies)
 
 #### 💻 Languages
 ![HTML5](https://shields.io)
@@ -25,6 +25,5 @@
 —
 
 ### 📊 GitHub Stats
-<!— แทนที่ USERNAME ด้วยชื่อผู้ใช้ GitHub ของคุณจริง ๆ —>
 ![GitHub Stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
